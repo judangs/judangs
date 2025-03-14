@@ -2,12 +2,9 @@
 
 ## 안녕하세요.
 
-<div width="30%">
-스프링 백엔드를 공부하고 있습니다.
-테크핀과 관련하여 카드 / 결제 도메인에 관심을 가지고 있어요.
+- 스프링 백엔드를 공부하고 있습니다. 핀테크의 **카드/결제 도메인**에 관심을 가지고 있어요.
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wneotjd228">
-</div>
-
+  
 </br>
 </br>
 </br>
