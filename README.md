@@ -99,7 +99,9 @@
 </div>
 
 <p align="center">
-  <img src="./readme-assets/article.png" alt="Article left top capture" width="100%" />
+  <a href="https://payvue.it.com/blog">
+    <img src="./readme-assets/article.png" alt="Article left top capture" width="100%" />
+  </a> 
 </p>
 
 <p align="center">
